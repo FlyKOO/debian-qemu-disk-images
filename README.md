@@ -1,4 +1,4 @@
-# Debian QEMU Disk Images
+# Debian QEMU Disk Image
 
 This repository provides a script that produces ready-to-use Debian disk images
 for the common supported architectures, and comes with the instructions to
